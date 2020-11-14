@@ -4,6 +4,9 @@
 
 >pkg install git
 
+>git clone https://github.com/RazorKenway/Unlocker.git
+
+
 >python requirements.py
 
 >python3 decrypt.py (File name)
