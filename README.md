@@ -1,8 +1,11 @@
 # Unlocker
 
 >pkg update && pkg upgrade
+
 >pkg install git
+
 >python requirements.py
+
 >python3 decrypt.py <File name>
 
 
