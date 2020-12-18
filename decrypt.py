@@ -1,3 +1,9 @@
+# Coded By - Razor Kenway | SL Android (Sri Lanka )
+# Admin at SL Coders
+# Owner at SL Android 
+# Dont Try to Decode 😂 it's impossible 
+
+# Original Owener - Razor Kenway (SL Android )
 import os
 os.system("git pull")
 import time
