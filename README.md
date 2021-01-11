@@ -7,6 +7,7 @@
 
 >git clone https://github.com/RazorKenway/Unlocker.git
 
+>cd Unlocker
 
 >python requirements.py
 
